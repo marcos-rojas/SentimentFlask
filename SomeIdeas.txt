@@ -1,0 +1,12 @@
+We need to pass the unstructured data
+into classification/categorie labels. It
+makes easy to do calculation as well as
+understand data (what is client trying to
+communicate)
+PROCESS:
+INPUT->TEXT ANALYTICS -> CLASSIFIER -> OUTPUT
+
+.Input: raw unstructured data
+.textAnalytics: stemming, POS tagging, stopwords, lemmatization
+.classifier: decision tree/navide bayes, SVM, random Forest
+.output: category if data
